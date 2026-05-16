@@ -3,3 +3,6 @@ numpy
 scikit-learn
 joblib
 pandas
+tensorflow
+pillow
+plotly
